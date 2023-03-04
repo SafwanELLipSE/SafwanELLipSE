@@ -1,4 +1,4 @@
-[![MasterHead](https://www.interviewbit.com/blog/wp-content/uploads/2021/08/2.jpg)]
+![MasterHead](https://www.interviewbit.com/blog/wp-content/uploads/2021/08/2.jpg)
 <h1 align="center">Hi 👋, I'm K M Safwan Hassan</h1>
 <h3 align="center">A passionate Laravel and Frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding is Life" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
