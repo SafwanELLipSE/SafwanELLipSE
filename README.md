@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm K M Safwan Hassan</h1>
 <h3 align="center">A passionate Laravel and Frontend developer from Bangladesh</h3>
+<img align="right" alt="Coding is Life" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safwanellipse&label=Profile%20views&color=0e75b6&style=flat" alt="safwanellipse" /> </p>
 
