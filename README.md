@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/SafwanELLipSE/SafwanELLipSE/blob/main/banner-github.png)
-<h1 align="center">Hi 👋, I'm K M Safwan Hassan</h1>
+<h1 align="center">Hi 👋, I'm Rubab Hassan</h1>
 <h3 align="center">A passionate Laravel and Frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding is Life" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
@@ -17,14 +17,14 @@
 
 - 💬 Ask me about **HTML, CSS, Laravel, Php, OOP**
 
-- 📫 How to reach me **safwanhassan13@gmail.com**
+- 📫 How to reach me **#**
 
 - ⚡ Fun fact **I love to play games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/safwanhassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwanhassan" height="30" width="40" /></a>
-<a href="https://fb.com/safwan.rubab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safwan.rubab" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safwanhassan" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="safwan.rubab" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
